@@ -1,5 +1,5 @@
 #include <Arduino.h>
-
+int test ;
 // put function declarations here:
 int myFunction(int, int);
 
